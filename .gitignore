@@ -1,0 +1,4 @@
+# Project exclude paths
+/main/test.js
+/main/test.js.map
+/node_modules/
